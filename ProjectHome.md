@@ -1,0 +1,1 @@
+A simple kakuro solver and generator in python
